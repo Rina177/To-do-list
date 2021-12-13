@@ -1,0 +1,19 @@
+.Contener > h1{color: crimson;}
+.Header > .add{color:darkorange; 
+    background-color: darkorchid;
+margin-left: 15px;}
+.Contener {height: 250px;
+width: 500px;
+background-color: azure;
+margin: 0 auto;
+padding: 10px;}
+.List {margin: 15px;
+    overflow-y: auto;
+    height: 120px;}
+.List > div{margin-top: 15px;
+    text-overflow: ellipsis;
+    overflow: hidden;}
+.Header > .Clean 
+{background-color: cornflowerblue;
+color: white;
+margin-left: 15px;}
